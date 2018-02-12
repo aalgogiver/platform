@@ -186,6 +186,15 @@
         "friendsofphp/php-cs-fixer": "2.1.*"
     },
     "repositories": {
+       {
+          "type": "vcs",
+          "url": "https://github.com/aalgogiver/TranslationFormBundle"
+       },
+       {
+            "type": "vcs",
+            "url": "https://github.com/aalgogiver/BatchBundle",
+            "reference": "3ecebd637ba8a4b3269c641bc55905a8397af34c"
+        },	        
         "oro": {
             "type": "composer",
             "url": "https://packagist.orocrm.com"
