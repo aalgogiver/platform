@@ -27,6 +27,7 @@
         "doctrine/dbal": "2.5.5",
         "doctrine/data-fixtures": "1.2.2",
         "doctrine/doctrine-fixtures-bundle": "2.3.0",
+	"doctrine/common": "~2.4",
         "twig/extensions": "1.4.*",
         "symfony/asset": "2.8.30",
         "symfony/yaml": "2.8.30",
