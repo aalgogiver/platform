@@ -199,7 +199,8 @@
     "prefer-stable": true,
     "extra": {
         "branch-alias": {
-            "dev-master": "2.x-dev"
+            "dev-master": "2.x-dev",
+	    "dev-symfony_components": "2.x-dev"
         }
     },
     "autoload": {
