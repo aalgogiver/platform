@@ -28,6 +28,8 @@
         "doctrine/data-fixtures": "1.2.2",
         "doctrine/doctrine-fixtures-bundle": "2.3.0",
         "twig/extensions": "1.4.*",
+        "symfony/asset": "2.8.30",
+        "symfony/yaml": "2.8.30",
         "symfony/assetic-bundle": "2.8.1",
         "symfony/swiftmailer-bundle": "2.4.*",
         "symfony/monolog-bundle": "3.0.*",
